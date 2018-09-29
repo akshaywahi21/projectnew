@@ -1,2 +1,4 @@
-name = "hello world"
-print(name)
+import importfile
+
+
+print("hello " +importfile.name+" naha lo")
